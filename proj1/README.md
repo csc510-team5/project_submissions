@@ -3,8 +3,8 @@
 https://github.com/csc510-team5/project_submissions/tree/main/proj1/Essay.md
 
 ## Score Card Links
-https://github.com/csc510-team5/project_submissions/tree/main/proj1/score_cards/Constable - Github Action (N).md
-https://github.com/csc510-team5/project_submissions/tree/main/proj1/score_cards/GITS2.1-I.R.I.S (v).md
-https://github.com/csc510-team5/project_submissions/tree/main/proj1/score_cards/Recipe Recommender (n).md
-https://github.com/csc510-team5/project_submissions/tree/main/proj1/score_cards/Simpilii (y).md
-https://github.com/csc510-team5/project_submissions/tree/main/proj1/score_cards/Simplii (q).md
+https://github.com/csc510-team5/project_submissions/tree/main/proj1/score_cards/constable_github_action_N.md
+https://github.com/csc510-team5/project_submissions/tree/main/proj1/score_cards/GITS2_1IRIS_v.md.md
+https://github.com/csc510-team5/project_submissions/tree/main/proj1/score_cards/Recipe_Recommender_n.md
+https://github.com/csc510-team5/project_submissions/tree/main/proj1/score_cards/Simpilii_y.md
+https://github.com/csc510-team5/project_submissions/tree/main/proj1/score_cards/Simplii_q.md
